@@ -31,6 +31,8 @@ discussion of insights gained from real world deployment of a visualization
 ### Discourse	
 theoretical and practical evidence to challenge an existing (design) guideline
 
+- Luciani et al. "Details-first, show context, overview last: supporting exploration of viscous fingers in large-scale ensemble simulation." IEEE Transactions on Visualization and Computer Graphics 25.1 (2019).
+
 ### Design methodology	
 methodologies that helps people take a structured and formalised approach to visualisation design
 
@@ -48,6 +50,12 @@ discussion of negative results including identification of pitfalls to be avoide
 
 ### Mechanism	
 foundational understanding of perception and cognition to explain how visualization works
+
+- Haroz & Whitney. "How capacity limits of attention influence information visualization effectiveness." IEEE Transactions on Visualization and Computer Graphics 18.12 (2012): 2402-2410.
+- Borkin et al. "What makes a visualization memorable?." IEEE Transactions on Visualization and Computer Graphics 19.12 (2013): 2306-2315.
+- Rensink. "On the prospects for a science of visualization." Handbook of Human-Centric Visualization. Springer, New York, NY, 2014. 147-175.
+- Padilla et al. "Decision making with visualizations: a cognitive framework across disciplines." Cognitive Research: Principles and Implications 3.1 (2018).
+- Szafir et al. "Four types of ensemble coding in data visualizations." Journal of Vision 16.5 (2016).
 
 ### New data or dataset type	
 dataset type, data type, or facet of data previously unseen and unhandled in visualization
@@ -93,5 +101,5 @@ well-argued and well-supported visions of the future of visualization
 ### Visual data analysis methodology	
 novel combination of established visualization and interaction techniques to perform data analysis
 
-###Yet Unlisted Contributions	
+### Yet Unlisted Contributions	
 ideas, results, discussions, and/or yet undiscovered units of effort that help the community solve visualization problems but have not been listed here
