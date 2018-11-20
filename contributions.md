@@ -1,5 +1,7 @@
 # List of contribution types
 
+Additions are welcome. Please follow the below format:
+
 ## Format
 ```
 ### Contribution type name
@@ -10,8 +12,22 @@ brief description of contribution type
 - etc
 ```
 
+Papers should be formatted as follows:
+```
+Author list. "Title with first word capitalized." Journal/Proceedings information. Link to article.
+```
+
+## Contribution Types
+
 ### Algorithmic simplification	
 simplification or explanation of techniques and algorithms to make them easier to understand and reproduce
+
+- Peter Lindstrom and Valerio Pascucci. "Terrain simplification simplified: a
+  general framework for view-dependent out-of-core visualization." IEEE
+Transactions on Visualization and Computer Graphics, November 2002. https://ieeexplore.ieee.org/document/1021577
+- Jarek Rossignac. "3D compression made simple: EdgeBreaker with ZipandWrap on
+  a corner-table." Proceedings of the International Conference on Shape
+Modeling and Applications. May 2001. https://ieeexplore.ieee.org/abstract/document/923399
 
 ### Artistic Design	
 practices and evaluative reflection on expressiveness and utility of visualization
@@ -22,6 +38,13 @@ mapping of data from a domain/problem to abstract data and dataset types
 ### Data structures	
 improvements or new uses of existing ones to support visualization
 
+- Jarek Rossignac. "EdgeBreaker: connectivity compression for triangle
+  meshes." IEEE Transactions on Visualization and Computer Graphics.
+January-March 1999. http://doi.ieeecomputersociety.org/10.1109/2945.764870
+- Lauro Lins, James T. Klosowski, and Carlos Scheidegger. "Nanocubes for
+  real-time exploration of spatiotemporal data." IEEE Transactions on
+Visualization and Computer Graphics. December 2013. https://ieeexplore.ieee.org/document/6634137
+
 ### Dataset	
 publicly available dataset for use in understanding visualizations, e.g., their construction, consumption, design, or interpretation
 
@@ -30,8 +53,6 @@ discussion of insights gained from real world deployment of a visualization
 
 ### Discourse	
 theoretical and practical evidence to challenge an existing (design) guideline
-
-- Luciani et al. "Details-first, show context, overview last: supporting exploration of viscous fingers in large-scale ensemble simulation." IEEE Transactions on Visualization and Computer Graphics 25.1 (2019).
 
 ### Design methodology	
 methodologies that helps people take a structured and formalised approach to visualisation design
@@ -51,12 +72,6 @@ discussion of negative results including identification of pitfalls to be avoide
 ### Mechanism	
 foundational understanding of perception and cognition to explain how visualization works
 
-- Haroz & Whitney. "How capacity limits of attention influence information visualization effectiveness." IEEE Transactions on Visualization and Computer Graphics 18.12 (2012): 2402-2410.
-- Borkin et al. "What makes a visualization memorable?." IEEE Transactions on Visualization and Computer Graphics 19.12 (2013): 2306-2315.
-- Rensink. "On the prospects for a science of visualization." Handbook of Human-Centric Visualization. Springer, New York, NY, 2014. 147-175.
-- Padilla et al. "Decision making with visualizations: a cognitive framework across disciplines." Cognitive Research: Principles and Implications 3.1 (2018).
-- Szafir et al. "Four types of ensemble coding in data visualizations." Journal of Vision 16.5 (2016).
-
 ### New data or dataset type	
 dataset type, data type, or facet of data previously unseen and unhandled in visualization
 
@@ -68,6 +83,15 @@ previously unaddressed or undiscussed visualization problems
 
 ### Performance analysis	
 analysis of running visualizations and visualization algorithms efficiently on real devices
+
+- Matthew Larsen, Cyrus Harrison, James Kress, David Pugmire, Jeremy S.
+  Meredith, and Hank Childs.. "Performance modeling of in situ rendering." Supercomputing
+  2016. http://dl.acm.org/citation.cfm?id=3014904.3014936
+- Stephanie Labasan, Matthew Larsen, and Hank Childs. "Exploring tradeoffs between power and performance for a
+  scientific visualization algorithm." LDAV 2016. https://ieeexplore.ieee.org/document/7348074
+- Giuseppe Di Battista, Ashim Garg, Giuseppe Liotta, Roberto Tamassia,
+  Emanuele Tassinari, and Francesco Vargiu. "An experimental comparison of four
+graph drawing algorithms." Computational Geometry. 1997. https://www.sciencedirect.com/science/article/pii/S0925772196000053
 
 ### Presentation	
 methodology or discussion of insights for storytelling and expository applications such as data journalism and education
