@@ -62,6 +62,8 @@ methodologies that enable new ways in evaluating visualisation solutions
 
 ### Formalism	
 generalized theoretical, algorithmic, or mathematical formalisms of visualization concepts
+- Kindlmann, Gordon, and Carlos Scheidegger. "An algebraic process for visualization design." IEEE Transactions on Visualization and Computer Graphics. December 2014.https://ieeexplore.ieee.org/document/6875930/
+- Card, Stuart K., and Jock Mackinlay. "The structure of the information visualization design space." IEEE Symposium on Information Visualization. 1997. https://ieeexplore.ieee.org/document/636792/
 
 ### Guidelines	
 generalized advice for the design and use of visualizations and visualization techniques
@@ -71,6 +73,8 @@ discussion of negative results including identification of pitfalls to be avoide
 
 ### Mechanism	
 foundational understanding of perception and cognition to explain how visualization works
+- Yuan, Lei, Steve Haroz, and Steven Franconeri. Psychonomic Bulletin & Review. September 2018. https://doi.org/10.3758/s13423-018-1525-7
+- Padilla, Lace, Sarah Creem-Regehr, Mary Hegarty, and Jeanine Stefanucci. "Decision making with visualizations: a cognitive framework across disciplines." Cognitive Research: Principles and Implications. July 2018. https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-018-0120-9
 
 ### New data or dataset type	
 dataset type, data type, or facet of data previously unseen and unhandled in visualization
@@ -104,21 +108,33 @@ reproduction of previously-published research and comparison of results
 
 ### Survey	
 summary and enumeration of the state of the art 
+-Isenberg, Petra, Niklas Elmqvist, Jean Scholtz, Daniel Cernea, Kwan-Liu Ma, and Hans Hagen. "Collaborative visualization: Definition, challenges, and research agenda." Information Visualization. 2011.
+https://journals.sagepub.com/doi/abs/10.1177/1473871611412817
+- Roberts, Jonathan C., Panagiotis D. Ritsos, Sriram Karthik Badam, Dominique Brodbeck, Jessie Kennedy, and Niklas Elmqvist. "Visualization beyond the desktop--the next big thing." IEEE Computer Graphics and Applications 34.6 (2014): 26-34.
+https://ieeexplore.ieee.org/document/6879056/ 
 
 ### Systematic reviews	
 structured review and synthesis of the available literature grounded in a well-defined methodology
+- Lam, Heidi, Enrico Bertini, Petra Isenberg, Catherine Plaisant, and Sheelagh Carpendale. "Empirical studies in information visualization: Seven scenarios." IEEE transactions on visualization and computer graphics 18.9 (2012): 1520-1536.
+https://ieeexplore.ieee.org/document/6095544
+- Sarikaya, Alper, Michael Gleicher, and Danielle Albers Szafir. "Design factors for summary visualization in visual analytics." Computer Graphics Forum. 2018. https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13408
 
 ### Task abstraction	
 mapping of tasks performed by domain users to abstract tasks from a task taxonomy
 
 ### Taxonomies and conceptual models	
 systematic characterizations of a particular space that scaffolds thinking within that topic
+- Shneiderman, Ben. "The eyes have it: A task by data type taxonomy for information visualizations." IEEE Symposium on Visual Languages, 1996. https://ieeexplore.ieee.org/document/545307/
+- Tory, Melanie, and Torsten Moller. "Rethinking visualization: A high-level taxonomy." IEEE Symposium on Information Visualization, 2004. https://ieeexplore.ieee.org/document/1382903/
 
 ### Technique	
 novel components or methodologies of a visualization including visual representations, interaction techniques or modalities, methods used for evaluation, and others
 
 ### Toolkits / Languages / Architectures	
 design and implementation of a novel platform for developing visualizations
+- Satyanarayan, Arvind, Dominik Moritz, Kanit Wangsuphasawat, and Jeffery Heer. "Vega-lite: A grammar of interactive graphics." IEEE Transactions on Visualization and Computer Graphics. 2017. https://ieeexplore.ieee.org/abstract/document/7539624/
+- Bostock, Michael, Vadim Ogievetsky, and Jeffrey Heer. "D³ data-driven documents." IEEE Transactions on Visualization & Computer Graphics. 2011. https://www.computer.org/csdl/trans/tg/2011/12/ttg2011122301-abs.html
+- Heer, Jeffrey, Stuart K. Card, and James A. Landay. "Prefuse: a toolkit for interactive information visualization." Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. 2005. https://dl.acm.org/citation.cfm?id=1055031
 
 ### Vision	
 well-argued and well-supported visions of the future of visualization
