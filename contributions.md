@@ -108,7 +108,7 @@ reproduction of previously-published research and comparison of results
 
 ### Survey	
 summary and enumeration of the state of the art 
--Isenberg, Petra, Niklas Elmqvist, Jean Scholtz, Daniel Cernea, Kwan-Liu Ma, and Hans Hagen. "Collaborative visualization: Definition, challenges, and research agenda." Information Visualization. 2011.
+- Isenberg, Petra, Niklas Elmqvist, Jean Scholtz, Daniel Cernea, Kwan-Liu Ma, and Hans Hagen. "Collaborative visualization: Definition, challenges, and research agenda." Information Visualization. 2011.
 https://journals.sagepub.com/doi/abs/10.1177/1473871611412817
 - Roberts, Jonathan C., Panagiotis D. Ritsos, Sriram Karthik Badam, Dominique Brodbeck, Jessie Kennedy, and Niklas Elmqvist. "Visualization beyond the desktop--the next big thing." IEEE Computer Graphics and Applications 34.6 (2014): 26-34.
 https://ieeexplore.ieee.org/document/6879056/ 
