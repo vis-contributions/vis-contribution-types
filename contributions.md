@@ -53,6 +53,7 @@ discussion of insights gained from real world deployment of a visualization
 
 ### Discourse	
 theoretical and practical evidence to challenge an existing (design) guideline
+- Luciani T., Burks A., Sugiyama C., Komperda J., and Marai G.E.. “Details-First, Show Context, Overview Last: Supporting Exploration of Viscous Fingers in Large-Scale Ensemble Simulations.” IEEE Transactions on Visualization and Computer Graphics, Jan 2019 https://ieeexplore.ieee.org/document/8440850
 
 ### Design methodology	
 methodologies that helps people take a structured and formalised approach to visualisation design
@@ -67,6 +68,11 @@ generalized theoretical, algorithmic, or mathematical formalisms of visualizatio
 
 ### Guidelines	
 generalized advice for the design and use of visualizations and visualization techniques
+
+### Interaction Technique
+novel interaction methods, paradigms, user tasks, modalities, and implementations
+- Schroeder D. and Keefe D. "Visualization-by-Sketching: An Artist's Interface for Creating Multivariate Time-Varying Data Visualizations." IEEE Transactions on Visualization and Computer Graphics. January 2016. https://ieeexplore.ieee.org/abstract/document/7185456
+
 
 ### Lessons from failure	
 discussion of negative results including identification of pitfalls to be avoided
