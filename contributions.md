@@ -72,6 +72,9 @@ generalized advice for the design and use of visualizations and visualization te
 ### Interaction Technique
 novel interaction methods, paradigms, user tasks, modalities, and implementations
 - Schroeder D. and Keefe D. "Visualization-by-Sketching: An Artist's Interface for Creating Multivariate Time-Varying Data Visualizations." IEEE Transactions on Visualization and Computer Graphics. January 2016. https://ieeexplore.ieee.org/abstract/document/7185456
+- Coffey D., Lin C., Erdman A., Keefe D. "Design by Dragging: An Interface for Creative Forward and Inversity Design with Simulation Ensembles.  IEEE Transactions on Visualization and Computer Graphics.  October 2013.  https://ieeexplore.ieee.org/abstract/document/6634138
+- Coffey D., Malbraaten N., Le T., Borazjani I., Sotiropoulos F., Erdman A., Keefe, D. "Interactive Slice WIM: Navigating and Interrogating Volume Data Sets Using a Multisurface, Multitouch VR Interface".  IEEE Transactions on Visualization and Computer Graphics.  December 2011. https://ieeexplore.ieee.org/abstract/document/6095547
+- Jackson B., Lau T., Schroeder D., Toussaint K., Keefe D. "A Lightweight Tangible 3D Interface for Interactive Visualization of Thin Fiber Structures".  IEEE Transactions on Visualization and Computer Graphics. December 2013. https://ieeexplore.ieee.org/abstract/document/6651934
 
 
 ### Lessons from failure	
